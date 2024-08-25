@@ -272,6 +272,7 @@ nav ul li {
   border: 1px solid var(--primary-orange);
   padding: 0.5rem;
   box-sizing: border-box;
+  cursor: pointer;
 }
 
 /*--------- Overflow Box --------------*/
@@ -309,8 +310,10 @@ nav ul li {
 
 /*------------- OVERFLOW BOX --------------*/
 .portfolio-image-popupbox {
-  width: 45rem;
-  padding: 0 0.5rem;
+  width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+  border: 1px solid var(--primary-orange);
 }
 
 /*----------- Contacts Component -------------*/

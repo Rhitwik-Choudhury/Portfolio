@@ -8,7 +8,7 @@ const Header = () => {
             <h1>web development and freelancing</h1>
             <ReactTyped 
                 className="typed-text"
-                strings={["Web Design", "Web Development"]} 
+                strings={["Web Design", "Web Development", "Frontend-Development", "Backend-Development"]} 
                 typeSpeed={40}
                 backSpeed={60}
                 loop
