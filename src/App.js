@@ -69,7 +69,7 @@ import "./App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import React from "react";
-import { loadFull } from "tsparticles";
+// import { loadFull } from "tsparticles";
 // import Particles from "react-tsparticles";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
