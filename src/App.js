@@ -70,7 +70,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import React from "react";
 import { loadFull } from "tsparticles";
-import Particles from "react-tsparticles";
+// import Particles from "react-tsparticles";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import AboutMe from "./components/AboutMe";
@@ -80,9 +80,9 @@ import Contacts from "./components/Contacts";
 import Footer from "./components/Footer";
 
 function App() {
-  const particlesInit = async (main) => {
-    await loadFull(main);
-  };
+  // const particlesInit = async (main) => {
+  //   await loadFull(main);
+  // };
 
   return (
     <>
